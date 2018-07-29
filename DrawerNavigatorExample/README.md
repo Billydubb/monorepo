@@ -1,0 +1,2 @@
+This is the code for the DrawerNavigator article.
+It only includes the JavaScript part though, so you will have install React Native Navigation by following the instructions on their website and then include my code into your project to run this example.
